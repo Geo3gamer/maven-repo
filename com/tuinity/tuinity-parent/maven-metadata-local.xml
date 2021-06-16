@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.tuinity</groupId>
+  <artifactId>tuinity-parent</artifactId>
+  <versioning>
+    <versions>
+      <version>dev-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20210616191230</lastUpdated>
+  </versioning>
+</metadata>

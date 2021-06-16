@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jun 16 21:56:02 MSK 2021
+spigot-api-1.16.5-R0.1-SNAPSHOT-shaded.jar>=
+spigot-api-1.16.5-R0.1-SNAPSHOT.jar>=
+spigot-api-1.16.5-R0.1-SNAPSHOT.pom>=

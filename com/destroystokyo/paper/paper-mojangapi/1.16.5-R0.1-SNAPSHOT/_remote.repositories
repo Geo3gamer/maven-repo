@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jun 16 22:17:48 MSK 2021
+paper-mojangapi-1.16.5-R0.1-SNAPSHOT.pom>=
+paper-mojangapi-1.16.5-R0.1-SNAPSHOT.jar>=
+paper-mojangapi-1.16.5-R0.1-SNAPSHOT-shaded.jar>=
